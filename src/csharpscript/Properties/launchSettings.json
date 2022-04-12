@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpScript": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\src\\go-circle-1004\\InternalTools\\CSharpScript\\HelloWorld.cs\" test21"
+    }
+  }
+}
